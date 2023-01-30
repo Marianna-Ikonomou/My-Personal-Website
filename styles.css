@@ -10,10 +10,11 @@ header {
   background-color: black;
   color: antiquewhite;
   text-align: center;
-  padding: 35px;
+  padding: 40px;
+  position: sticky;
+  top: 0px;
 }
-u {
-}
+
 body {
   background-color: antiquewhite;
 }
@@ -36,5 +37,6 @@ h4 {
   gap: 70px;
 }
 
-img {
- border-radius: 10px;
+.pic {
+  margin-top: 70px;
+}
