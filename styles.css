@@ -13,6 +13,7 @@ header {
   padding: 40px;
   position: sticky;
   top: 0px;
+  opacity: 0.9;
 }
 
 body {
