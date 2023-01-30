@@ -3,17 +3,21 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Courier New";
-  background-color: black;
+  background-color: rgb(20, 20, 20);
 }
 
 header {
-  background-color: black;
+  background-color: rgb(20, 20, 20);
   color: antiquewhite;
   text-align: center;
   padding: 40px;
   position: sticky;
   top: 0px;
-  opacity: 0.9;
+}
+
+.line-1 {
+  height: 1px;
+  background: white;
 }
 
 body {
@@ -39,5 +43,5 @@ h4 {
 }
 
 .pic {
-  margin-top: 70px;
+  margin-top: 20px;
 }
