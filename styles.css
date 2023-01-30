@@ -36,5 +36,6 @@ h4 {
   gap: 70px;
 }
 
-img {
- border-radius: 10px;
+.pic {
+  margin-top: 25px;
+}
