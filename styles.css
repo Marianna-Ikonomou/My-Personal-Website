@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Courier New";
+  background-color: black;
+}
+
+header {
+  background-color: black;
+  color: antiquewhite;
+  text-align: center;
+  padding: 35px;
+}
+u {
+}
+body {
+  background-color: antiquewhite;
+}
+
+button {
+  border-radius: 5px;
+}
+
+h4 {
+  color: black;
+  background-color: antiquewhite;
+  border-radius: 4px;
+  border-color: black;
+  padding: 2px;
+}
+
+.menu-bar {
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+}
+
+img {
+ border-radius: 10px;
