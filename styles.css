@@ -44,5 +44,6 @@ h4 {
 }
 
 .pic {
+  display: flex;
   margin-top: 25px;
 }
