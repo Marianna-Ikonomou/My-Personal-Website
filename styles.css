@@ -25,13 +25,14 @@ body {
 }
 
 button {
-  border-radius: 5px;
+  border-radius: 4px;
+  border-color: transparent;
 }
 
 h4 {
   color: black;
   background-color: antiquewhite;
-  border-radius: 4px;
+  border-radius: 5px;
   border-color: black;
   padding: 2px;
 }
